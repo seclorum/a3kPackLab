@@ -66,3 +66,8 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# verify output directories
+a3kpack-cli
+packLab-cli/
+packLab/
