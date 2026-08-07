@@ -1,10 +1,11 @@
 # nDISKY `.a3k` archive tools
 
 This directory contains tools for working with **`.a3k`** files — the archive
-format used by *A3kDisky*, a Windows librarian for the **Yamaha A3000** sampler
-(1997–2000 era).  The original Turbo Delphi source for A3kDisky and its
-compression unit are lost; the format was reverse-engineered from the sample
-archives in this directory.
+format used by *A3kDisky* (also known as Disky/CDBONK), a Windows librarian 
+for the **Yamaha A3000** sampler (1997–2000 era).  
+
+The original Turbo Delphi source for A3kDisky and its compression unit are 
+lost; the format was reverse-engineered from the sample archives in this directory.
 
 There are two independent implementations, both capable of **unpacking** an
 `.a3k` archive into a directory of files and **packing** a directory back into
