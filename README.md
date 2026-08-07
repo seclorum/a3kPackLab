@@ -243,3 +243,15 @@ ALL ARCHIVES C++ ROUND-TRIP OK    (C++)
 ```
 
 All 24 archives in `./originals` round-trip losslessly with both tools.
+
+### 7. Donations
+
+nDISKY is a complete rewrite of the old Disky/CDBONK software, which can 
+be used to administer the Yamaha SFS disks on Windows, Linux and MacOS.
+ 
+If you are a Yamaha A-sampler (or SU700/RS7000/EX-series) user, you can help
+support the development of nDISKY by joining my GoFundMe campaign here:
+
+https://www.gofundme.com/f/yamaha-a3000-4000-5000-sampler-disky-revival-project
+
+
