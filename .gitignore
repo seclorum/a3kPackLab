@@ -71,3 +71,7 @@ Testing/
 a3kpack-cli
 packLab-cli/
 packLab/
+
+**/.DS_Store*
+.DS_Store
+
